@@ -1,0 +1,7 @@
+C:\Users\wilhelm.smaia\source\repos\enforcer\bin\Debug\enforcer.exe.config
+C:\Users\wilhelm.smaia\source\repos\enforcer\bin\Debug\enforcer.exe
+C:\Users\wilhelm.smaia\source\repos\enforcer\bin\Debug\enforcer.pdb
+C:\Users\wilhelm.smaia\source\repos\enforcer\obj\Debug\enforcer.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\enforcer\obj\Debug\enforcer.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\enforcer\obj\Debug\enforcer.exe
+C:\Users\wilhelm.smaia\source\repos\enforcer\obj\Debug\enforcer.pdb

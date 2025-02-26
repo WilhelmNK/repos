@@ -1,0 +1,4 @@
+C:\Users\wilhelm.smaia\source\repos\teste whili\obj\Debug\net8.0\teste whili.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhelm.smaia\source\repos\teste whili\obj\Debug\net8.0\teste whili.AssemblyInfoInputs.cache
+C:\Users\wilhelm.smaia\source\repos\teste whili\obj\Debug\net8.0\teste whili.AssemblyInfo.cs
+C:\Users\wilhelm.smaia\source\repos\teste whili\obj\Debug\net8.0\teste whili.csproj.CoreCompileInputs.cache

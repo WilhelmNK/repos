@@ -1,0 +1,7 @@
+C:\Users\wilhelm.smaia\source\repos\funcao\bin\Debug\funcao.exe.config
+C:\Users\wilhelm.smaia\source\repos\funcao\bin\Debug\funcao.exe
+C:\Users\wilhelm.smaia\source\repos\funcao\bin\Debug\funcao.pdb
+C:\Users\wilhelm.smaia\source\repos\funcao\obj\Debug\funcao.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\funcao\obj\Debug\funcao.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\funcao\obj\Debug\funcao.exe
+C:\Users\wilhelm.smaia\source\repos\funcao\obj\Debug\funcao.pdb

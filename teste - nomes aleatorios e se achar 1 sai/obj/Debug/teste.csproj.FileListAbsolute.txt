@@ -1,0 +1,14 @@
+C:\Users\wilhelm.smaia\source\repos\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\teste\bin\Debug\teste.exe.config
+C:\Users\wilhelm.smaia\source\repos\teste\bin\Debug\teste.exe
+C:\Users\wilhelm.smaia\source\repos\teste\bin\Debug\teste.pdb
+C:\Users\wilhelm.smaia\source\repos\teste\obj\Debug\teste.exe
+C:\Users\wilhelm.smaia\source\repos\teste\obj\Debug\teste.pdb
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\bin\Debug\teste.exe.config
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\bin\Debug\teste.exe
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\bin\Debug\teste.pdb
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\obj\Debug\teste.exe
+C:\Users\wilhelm.smaia\source\repos\teste - nomes aleatorios e se achar 1 sai\obj\Debug\teste.pdb

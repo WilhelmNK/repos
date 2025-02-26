@@ -1,0 +1,7 @@
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\bin\Debug\aleatorioporcentagem.exe.config
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\bin\Debug\aleatorioporcentagem.exe
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\bin\Debug\aleatorioporcentagem.pdb
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\obj\Debug\aleatorioporcentagem.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\obj\Debug\aleatorioporcentagem.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\obj\Debug\aleatorioporcentagem.exe
+C:\Users\wilhelm.smaia\source\repos\aleatorioporcentagem\obj\Debug\aleatorioporcentagem.pdb

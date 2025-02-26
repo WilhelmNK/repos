@@ -1,0 +1,14 @@
+C:\Users\wilhelm.smaia\source\repos\contas\bin\Debug\net8.0\contas.exe
+C:\Users\wilhelm.smaia\source\repos\contas\bin\Debug\net8.0\contas.deps.json
+C:\Users\wilhelm.smaia\source\repos\contas\bin\Debug\net8.0\contas.runtimeconfig.json
+C:\Users\wilhelm.smaia\source\repos\contas\bin\Debug\net8.0\contas.dll
+C:\Users\wilhelm.smaia\source\repos\contas\bin\Debug\net8.0\contas.pdb
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.AssemblyInfoInputs.cache
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.AssemblyInfo.cs
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.dll
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\refint\contas.dll
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.pdb
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\contas.genruntimeconfig.cache
+C:\Users\wilhelm.smaia\source\repos\contas\obj\Debug\net8.0\ref\contas.dll
