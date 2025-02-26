@@ -1,0 +1,14 @@
+C:\Users\wilhelm.smaia\source\repos\lala18\bin\Debug\net8.0\lala18.exe
+C:\Users\wilhelm.smaia\source\repos\lala18\bin\Debug\net8.0\lala18.deps.json
+C:\Users\wilhelm.smaia\source\repos\lala18\bin\Debug\net8.0\lala18.runtimeconfig.json
+C:\Users\wilhelm.smaia\source\repos\lala18\bin\Debug\net8.0\lala18.dll
+C:\Users\wilhelm.smaia\source\repos\lala18\bin\Debug\net8.0\lala18.pdb
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.AssemblyInfoInputs.cache
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.AssemblyInfo.cs
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.dll
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\refint\lala18.dll
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.pdb
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\lala18.genruntimeconfig.cache
+C:\Users\wilhelm.smaia\source\repos\lala18\obj\Debug\net8.0\ref\lala18.dll

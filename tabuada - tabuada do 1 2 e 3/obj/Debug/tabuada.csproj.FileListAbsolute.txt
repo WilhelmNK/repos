@@ -1,0 +1,7 @@
+C:\Users\wilhelm.smaia\source\repos\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\wilhelm.smaia\source\repos\tabuada\bin\Debug\tabuada.exe
+C:\Users\wilhelm.smaia\source\repos\tabuada\bin\Debug\tabuada.pdb
+C:\Users\wilhelm.smaia\source\repos\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\tabuada\obj\Debug\tabuada.exe
+C:\Users\wilhelm.smaia\source\repos\tabuada\obj\Debug\tabuada.pdb

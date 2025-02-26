@@ -1,0 +1,7 @@
+C:\Users\wilhelm.smaia\source\repos\medianos\bin\Debug\medianos.exe.config
+C:\Users\wilhelm.smaia\source\repos\medianos\bin\Debug\medianos.exe
+C:\Users\wilhelm.smaia\source\repos\medianos\bin\Debug\medianos.pdb
+C:\Users\wilhelm.smaia\source\repos\medianos\obj\Debug\medianos.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\medianos\obj\Debug\medianos.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\medianos\obj\Debug\medianos.exe
+C:\Users\wilhelm.smaia\source\repos\medianos\obj\Debug\medianos.pdb

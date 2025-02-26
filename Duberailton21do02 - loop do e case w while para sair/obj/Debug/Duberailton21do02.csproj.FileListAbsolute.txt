@@ -1,0 +1,7 @@
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\bin\Debug\Duberailton21do02.exe.config
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\bin\Debug\Duberailton21do02.exe
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\bin\Debug\Duberailton21do02.pdb
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\obj\Debug\Duberailton21do02.csproj.AssemblyReference.cache
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\obj\Debug\Duberailton21do02.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\obj\Debug\Duberailton21do02.exe
+C:\Users\wilhelm.smaia\source\repos\Duberailton21do02\obj\Debug\Duberailton21do02.pdb
