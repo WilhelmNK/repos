@@ -1,0 +1,14 @@
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\bin\Debug\net8.0\ultimo fabiano peixoto.exe
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\bin\Debug\net8.0\ultimo fabiano peixoto.deps.json
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\bin\Debug\net8.0\ultimo fabiano peixoto.runtimeconfig.json
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\bin\Debug\net8.0\ultimo fabiano peixoto.dll
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\bin\Debug\net8.0\ultimo fabiano peixoto.pdb
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.AssemblyInfoInputs.cache
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.AssemblyInfo.cs
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.csproj.CoreCompileInputs.cache
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.dll
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\refint\ultimo fabiano peixoto.dll
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.pdb
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ultimo fabiano peixoto.genruntimeconfig.cache
+C:\Users\wilhelm.smaia\source\repos\ultimo fabiano peixoto\obj\Debug\net8.0\ref\ultimo fabiano peixoto.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ultimo fabiano peixoto/1.0.0": {
+        "runtime": {
+          "ultimo fabiano peixoto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ultimo fabiano peixoto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
